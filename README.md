@@ -27,9 +27,6 @@ RecruiterVerify is a comprehensive tool designed to help recruiters authenticate
 - **Selenium & BeautifulSoup**: Used for web scraping and data extraction from websites and app stores.
 - **SQLAlchemy**: Database integration for storing and querying candidate data.
 
-### Cloud
-- **AWS (Amazon Web Services)**: Utilized for deploying the backend services, including API Gateway, Lambda functions, and RDS for scalable and secure cloud infrastructure.
-
 ## Installation and Setup
 
 ### Prerequisites
